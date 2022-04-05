@@ -9,8 +9,11 @@ images: []
 menu:
   docs:
     parent: "components"
-weight: 3
+weight: 3130
 toc: true
 ---
 
 A guide to using lights from single LED's to large scale arrays.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjEyNzMxODEzNF19
+-->
