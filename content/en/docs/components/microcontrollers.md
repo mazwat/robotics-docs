@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "components"
-weight: 5
+weight: 7
 toc: true
 ---
 

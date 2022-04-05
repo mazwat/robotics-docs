@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "components"
-weight: 2
+weight: 6
 toc: true
 ---
 Sound stuff

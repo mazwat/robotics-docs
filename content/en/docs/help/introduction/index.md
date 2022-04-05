@@ -5,11 +5,11 @@ lead: "Finding additional support for your projects."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false
-images: []
+images: ["knife-robot.png"]
 menu:
   docs:
     parent: "help"
-weight: 630
+weight: 4
 toc: true
 ---
 
