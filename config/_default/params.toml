@@ -54,7 +54,7 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Footer
-footer = "Developed by Matt Watkins & Ben Green <br>for the <b>Games Academy</b>, Falmouth University. 2022 <br> Built using Doks, Hugo & Netlify"
+footer = "Developed for the <b>Games Academy, Falmouth University</b> (2022)<br> Built using Doks, Hugo & Netlify "
 
 # Feed
 copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
