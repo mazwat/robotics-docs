@@ -16,3 +16,5 @@ toc: true
 ## Introduction
 
 The Robotics Lab is situated in the Design Centre.
+
+![Image](knife-robot.png "Knife attached to EVA Robot Arm")
