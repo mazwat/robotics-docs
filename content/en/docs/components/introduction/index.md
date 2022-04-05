@@ -13,8 +13,6 @@ weight: 5
 toc: true
 ---
 
-![Image](knife-robot.png)
-
 You can use the **components** section to explore a range of parts from microcontrollers, shields, motors, servos and a whole range of other components that could be useful in a project that uses electronics or robotics.
 
 We intended this site to function as a reference point when you are thinking about how to achieve something but you are unsure or when you want to find something to perform a specific task, you're not sure exactly what you might need.
