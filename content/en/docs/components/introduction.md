@@ -19,3 +19,4 @@ We intended this site to function as a reference point when you are thinking abo
 
 
 **Note:** *The components listed here are not all available to buy in the lab. This is primarily a directory to make it easier for you to locate the part to buy elsewhere. Items that can be used or bought from the lab have this icon* ✅ *next to them.*
+**Note:** *The components listed here are not all available to buy in the lab. This is primarily a directory to make it easier for you to locate the part to buy elsewhere. Items that can be used or bought from the lab have this icon* ✅ *next to them.*
