@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Robotics Resources"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "Robotics Docs"
+description = "This is intended as a resource for students on robotics and other computing or design courses that want to find information for electronics, engineering or robotics projects."
 
 ## Documentation
 # docsVersion = "0.3"
@@ -54,7 +54,7 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Developed by Matt Watkins & Ben Green <br>for the <b>Games Academy</b>, Falmouth University. 2022 <br> Built using Doks, Hugo & Netlify"
 
 # Feed
 copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
