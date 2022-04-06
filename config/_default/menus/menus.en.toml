@@ -39,6 +39,11 @@
   url = "/about/"
   weight = 10
 
+[[main]]
+  name = "Teaching"
+  url = "/teaching/"
+  weight = 12
+
 # [[main]]
 #   name = "Tutorial"
 #   url = "/tutorial/lorem/ipsum/"
