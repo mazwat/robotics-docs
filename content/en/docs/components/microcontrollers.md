@@ -18,9 +18,6 @@ All robotics systems need control whether it's a few transistors, an Arduino, a 
 ## Arduino
 
 ## Raspberry Pi
-## MicroBit
 
 ## MicroBit
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5NjgwMTQ1XX0=
--->
+

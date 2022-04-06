@@ -32,6 +32,11 @@
   name = "Docs"
   url = "/docs/components/introduction/"
 # url = "/docs/1.0/prologue/introduction/"
+  weight = 11
+
+[[main]]
+  name = "About"
+  url = "/about/"
   weight = 10
 
 # [[main]]

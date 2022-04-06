@@ -99,3 +99,61 @@
     url("fonts/vendor/jost/jost-v4-latin-700italic.woff2") format("woff2"),
     url("fonts/vendor/jost/jost-v4-latin-700italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
+@font-face {
+  font-family: museo-sans;
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src:
+    /*url("fonts/vendor/museo/MuseoSans-100.woff2") format("woff2"),
+    url("fonts/vendor/museo/MuseoSans-100.woff") format("woff");*/
+    url("fonts/vendor/museo/MuseoSansRounded100.woff2") format("woff2"),
+    url("fonts/vendor/museo/MuseoSansRounded100.woff") format("woff");
+}
+
+@font-face {
+  font-family: museo-sans;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src:
+    /*url("fonts/vendor/museo/MuseoSans-300.woff2") format("woff2"),
+    url("fonts/vendor/museo/MuseoSans-300.woff") format("woff");*/
+    url("fonts/vendor/museo/MuseoSansRounded300.woff2") format("woff2"),
+    url("fonts/vendor/museo/MuseoSansRounded300.woff") format("woff");  
+}
+
+@font-face {
+  font-family: museo-sans;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    /*url("fonts/vendor/museo/MuseoSans-300.woff2") format("woff2"),
+    url("fonts/vendor/museo/MuseoSans-300.woff") format("woff");*/
+    url("fonts/vendor/museo/MuseoSansRounded300.woff2") format("woff2"),
+    url("fonts/vendor/museo/MuseoSansRounded300.woff") format("woff");  
+}
+
+@font-face {
+  font-family: museo-sans;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url("fonts/vendor/museo/MuseoSans-700.woff2") format("woff2"),
+    url("fonts/vendor/museo/MuseoSans-700.woff") format("woff"); 
+}
+
+@font-face {
+  font-family: museo-sans;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src:
+    /*url("fonts/vendor/museo/MuseoSans_500.woff2") format("woff2"),
+    url("fonts/vendor/museo/MuseoSans_500.woff") format("woff");*/
+    url("fonts/vendor/museo/MuseoSansRounded500.woff2") format("woff2"),
+    url("fonts/vendor/museo/MuseoSansRounded500.woff") format("woff");  
+}

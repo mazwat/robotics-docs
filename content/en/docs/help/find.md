@@ -19,9 +19,12 @@ Below are some suggestions based on FAQ's we commonly get:
 
 - I want to make something **move** using **wheels**
 - I want to make something **move backwards and forwards**
+- I want to make something **move in controlled steps**
 - I want to make something **inflate**
 - I want to make something that uses **liquid**
 - I want to see if something in a roon has **moved**
 - I want to see if something has been **stretched**
 - I want to see if something has been **bent**
-- I want to know how **close** something is
+- I want to know how **close** something is to something else
+- I want to **measure** the **rotations** of something
+- I want to mame something that can sense **humidity**
