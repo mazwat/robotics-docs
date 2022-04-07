@@ -17,4 +17,5 @@ toc: true
 
 The Robotics Lab is situated in the Design Centre.
 
-![Image](lab-pano.png "Students in the Robotics Lab")
+![Image](lab-pano.png "fig.1 - Students in the Robotics Lab")
+The Lab is open to anyone who wants to explore robotics or electronics in their projects.
