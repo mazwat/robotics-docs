@@ -14,6 +14,12 @@ toc: true
 ---
 
 A guide to using lights from single LED's to large scale arrays.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzMxODEzNF19
--->
+
+
+Standard LED's
+
+RGB LED
+
+Neo Pixels
+  - Rings
+  - Strips
